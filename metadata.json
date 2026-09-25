@@ -1,0 +1,8 @@
+{
+  "name": "Gimbi Local",
+  "description": "Local digital advertising and discovery platform for businesses, schools, NGOs, agriculture, products, jobs and announcements in Gimbi and surrounding communities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
